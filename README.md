@@ -2,7 +2,7 @@
 
 
 # Checkout few of my Flutter Projects done so far. (Click on projects to know more)
-## [Netflix-React_App](https://github.com/jayanthjj/netflix-react-app)
+## [Netflix-React-App](https://github.com/jayanthjj/netflix-react-app)
 Mock-Netflix React app built using React and implementing React Hooks. Link to Website -  https://jayanthjj.github.io/netflix-react-app/ 
 <hr>
 
